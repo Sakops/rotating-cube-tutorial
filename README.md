@@ -1,1 +1,1 @@
-#Learned how to create a cube that rotates. Credits: Pythonprogramming.net
+**Learned how to create a cube with openGL on python**
